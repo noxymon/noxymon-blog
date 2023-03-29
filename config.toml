@@ -1,4 +1,10 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://noxymon.web.id'
 languageCode = 'en-us'
 title = 'NXY Blog'
 theme = 'pixyll'
+googleAnalytics = 'G-9WLNBJ8CR7'
+disqusShortname = 'noxymon'
+search_engine = true
+google_analytics_id = "G-9WLNBJ8CR7"
+twitter_username = "noxymon"
+paginate = true
