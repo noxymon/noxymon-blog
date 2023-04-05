@@ -1,7 +1,7 @@
 ---
 title: "Hell0 W0rld"
 date: 2023-04-05T10:09:54+07:00
-draft: true
+draft: false
 description: Welcome friends, This is my (another) (new) blog wkwkwkw.
 ---
 
